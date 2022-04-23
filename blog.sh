@@ -1,6 +1,6 @@
 #!/bin/sh
 set -eu
-MARKDOWN=smu
+MARKDOWN=markdown
 GEMINI() { <"$1" perl -0pe 's/<a href="([^"]*)".*>(.*)<\/a>/[\2](\1)/g;s/^<!--.*-->//gsm' | md2gemini --links paragraph; }
 IFS='	'
 
@@ -127,4 +127,4 @@ while read -r f title created updated; do
 done < build/pages.tsv
 
 # Static files
-cp -r posts/*/ build
+cp -r posts/* build

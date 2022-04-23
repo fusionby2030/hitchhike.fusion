@@ -1,11 +1,11 @@
-# Karl Bartel's Website
+# Adam and Yuilia's Website
 
-I'm a Software developer in Berlin, Germany. I like free software, open data and keeping things simple.
+From the messy desks of the hosts of the Fusion and Plasma Podcast. 
 
-Contact me via <a href="mailto:karl@karl.berlin" rel="me">email</a> or find me on
-<a href="https://github.com/karlb" rel="me">GitHub</a>,
-<a href="https://fosstodon.org/@karlb" rel="me">Mastodon</a>,
-<a href="https://twitter.com/karlb" rel="me">Twitter</a>,
-<a href="https://www.linkedin.com/pub/karl-bartel/a/a3a/6b7" rel="me">LinkedIn</a>. Subscribe to the [Atom feed](atom.xml) to get all new posts on this site.
+Contact us via <a href="mailto:adamkit11@gmail.com" rel="Adam">email</a> or find me on
+<a href="https://github.com/fusionby2030" rel="me">GitHub</a>,
+<a href="https://www.linkedin.com/pub/karl-bartel/a/a3a/6b7" rel="me">LinkedIn</a>. 
 
-## Blog Posts
+<!--- Subscribe to the [Atom feed](atom.xml) to get all new posts on this site. -->
+
+## Recent Posts
